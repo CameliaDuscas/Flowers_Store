@@ -1,0 +1,28 @@
+
+.filter-button
+{
+    
+    font-size: 18px;
+    border: 1px solid #ff666f;
+    border-radius: 5px;
+    text-align: center;
+    color: black;
+    margin-bottom: 30px;
+
+}
+.filter-button:hover
+{
+    font-size: 18px;
+    border: 1px solid #ff666f;
+    border-radius: 5px;
+    text-align: center;
+    color: #ffffff;
+    background-color: #ff666f;
+
+}
+.btn-default:active .filter-button:active
+{
+    background-color: #ff666f;
+    color: white;
+}
+
